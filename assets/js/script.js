@@ -69,6 +69,7 @@ function displayPage(startTime,endTime) {
         buttonEl.textContent = "Save";
         buttonEl.setAttribute("id","saveTaskBtn"+i);
         buttonEl.setAttribute("data-taskNumber",i);
+        buttonEl.setAttribute("class","btn btn-dark");
 
         // add button to buttonDiv and then add buttonDiv to row
         buttonDiv.append(buttonEl);
