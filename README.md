@@ -30,5 +30,5 @@ See the code repository here: https://github.com/sg0703/05_Work-Day-Scheduler
 
 ## Screenshots
 
-![alt text](Assets/images/screen1.png)
-![alt text](Assets/images/screen2.png)
+![alt text](assets/images/screen1.png)
+![alt text](assets/images/screen2.png)
