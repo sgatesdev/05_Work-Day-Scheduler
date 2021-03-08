@@ -88,6 +88,7 @@ function displayPage(startTime,endTime) {
     }   
 }
 
+// this function saves a new task, or modifies an existing task, in local storage
 function saveTask(taskNumber) {
     // get textarea content for corresponding task number
     var taskContent = document.getElementById("task"+taskNumber).value;
