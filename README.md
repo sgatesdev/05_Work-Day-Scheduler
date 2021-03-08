@@ -13,14 +13,13 @@ I utilized Javascript and jQuery to dynamically generate the list of tasks and t
 
 1. Modified provided index.html to create placeholders for data
 2. Wrote a function to display the main page
-3. This project relied heavily on Javascript, jQuery, Moment.js and Bootstrap
-4. Utilized Bootstrap to create the styling and HTML elements behind the task list
-5. Utilized jQuery to dynamically create the list and populate the list with stored tasks
-6. Wrote the function saveTask(), which stores the new task or modifies a current task in local storage
-7. Wrote the function populateContent(), which populates textareas with the task from local storage (if it exists)
-8. Wrote the function taskPresent(), which checks to see if a task is present in local storage and if so, returns the position of that task in the array
-9. Wrote the function timePosition() to calculate if a time slot on the list is in the past, present, or future (returns appropriate background color)
-10. Utilized GitHub to track changes and store project files
+3. Utilized Bootstrap to create the styling and HTML elements behind the task list
+4. Utilized jQuery to dynamically create the list and populate the list with stored tasks
+5. Wrote the function saveTask(), which stores the new task or modifies a current task in local storage
+6. Wrote the function populateContent(), which populates textareas with the task from local storage (if it exists)
+7. Wrote the function taskPresent(), which checks to see if a task is present in local storage and if so, returns the position of that task in the array
+8. Wrote the function timePosition() to calculate if a time slot on the list is in the past, present, or future (returns appropriate background color) - uses Moment.js
+9. Utilized GitHub to track changes and store project files
 
 
 ## Link to deployed project
